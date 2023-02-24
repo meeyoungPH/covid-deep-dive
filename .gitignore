@@ -1,6 +1,6 @@
 config*
 test*
-COVID-19
+COVID-19*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
